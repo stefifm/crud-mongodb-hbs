@@ -1,0 +1,36 @@
+body{
+background: #8E0E00;
+/* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #1F1C18, #8E0E00);
+/* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #1F1C18, #8E0E00);
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.bg-color {
+   background: #000000;
+   /* fallback for old browsers */
+   background: -webkit-linear-gradient(to bottom, #434343, #000000);
+   /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to bottom, #434343, #000000);
+   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.bg-edit{
+background: #000428;
+/* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #004e92, #000428);
+/* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #004e92, #000428);
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.table-color {
+    background-color: #1e272e;
+
+}
