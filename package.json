@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.16.3",
     "@handlebars/allow-prototype-access": "^1.0.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
@@ -26,7 +27,6 @@
     "@babel/node": "^7.16.0",
     "@babel/plugin-transform-runtime": "^7.16.4",
     "@babel/preset-env": "^7.16.4",
-    "@babel/runtime": "^7.16.3",
     "ncp": "^2.0.0",
     "nodemon": "^2.0.15"
   }
